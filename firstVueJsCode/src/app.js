@@ -8,6 +8,7 @@ Vue.createApp({
     methods: {
         addNewTodo() {
             this.todos.push(this.enteredTodoValue);
+            this.enteredTodoValue = '';
         }
     }
 }).mount('#app');
