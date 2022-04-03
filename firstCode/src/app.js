@@ -9,6 +9,7 @@ function addNewTodo() {
     const listTodoItems = document.createElement('li');
     listTodoItems.textContent = enteredTodoValue;
     todoListElement.appendChild(listTodoItems);
+    userInputElement.value = '';
 }
 
 // Add event listener to button
