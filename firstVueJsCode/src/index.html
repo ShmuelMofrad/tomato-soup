@@ -14,7 +14,7 @@
         <div>
             <label for="todo">ToDo</label>
             <input type="text" id="todo" v-model="enteredTodoValue" />
-            <button>Add Todo</button>
+            <button v-on:click="addNewTodo">Add Todo</button>
         </div>
         <ul>
             <li></li>
