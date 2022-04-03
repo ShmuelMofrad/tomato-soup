@@ -1,5 +1,5 @@
 Vue.createApp({
-    data: function () {
+    data() {
         return {
             todos: [],
             enteredTodoValue: ''
