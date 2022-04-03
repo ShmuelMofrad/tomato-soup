@@ -4,5 +4,10 @@ Vue.createApp({
             todos: [],
             enteredTodoValue: ''
         };
+    },
+    methods: {
+        addNewTodo() {
+            this.todos.push(this.enteredTodoValue);
+        }
     }
 });
