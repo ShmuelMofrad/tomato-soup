@@ -4,6 +4,7 @@
     <title>HTML Page</title>
 </head>
 <body>
+    <!-- this is just a html page -->
     This is just a text file
 </body>
 </html>
