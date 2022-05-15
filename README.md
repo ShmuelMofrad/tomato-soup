@@ -8,6 +8,14 @@ This is Web Development for Beginners
 4. [What would you like to eat](./what_would_you_like_to_eat/README.md)
 5. [Say something about me](./say_something_about_me/README.md)
 
+## How to Add Cream to Tomato Soup:
+
 ## Toolkits:
 
 a. [Web Scratch](./webScratch/README.md)
+
+## References
+
+I. [HTML elements reference](./HTML_elements_reference/README.md)
+
+II. [MDN HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
